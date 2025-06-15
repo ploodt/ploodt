@@ -1,5 +1,5 @@
-## Hi there 👋 https://github.com/frankwick/t/raw/main/tinytask.exe
-
+## Hi there 👋 
+https://www.tinytask.net/download.html
 <!--
 **ploodt/ploodt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
